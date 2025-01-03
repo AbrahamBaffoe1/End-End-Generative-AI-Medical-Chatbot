@@ -26,7 +26,10 @@ list_of_files = [
     'main.py',
     'setup.py',
     'app.py',
-    'pyproject.toml'
+    'config.yaml',
+    'test.py',
+    'pyproject.toml',
+    'README.md',
 ]
 
 #  creating files and checking if they are empty or not

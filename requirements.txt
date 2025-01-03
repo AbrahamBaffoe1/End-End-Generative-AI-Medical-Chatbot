@@ -8,7 +8,7 @@ langchain-pinecone
 langchain_community
 langchain_openai
 langchain_experimental
-
+-e .
 
 # aws
 # boto3
@@ -18,7 +18,7 @@ langchain_experimental
 # matplotlib
 # seaborn
 # gunicorn
-# python-dotenv
+python-dotenv
 # flask-cors
 # requests
 # openai  
