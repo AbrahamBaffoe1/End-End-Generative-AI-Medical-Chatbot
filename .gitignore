@@ -1,0 +1,22 @@
+# Python virtual environment
+einsteinmed/
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# PyTorch specific
+*.dylib
+*.so
+*.dll
+*.pyd
+torch/
